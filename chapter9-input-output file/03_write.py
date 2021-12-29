@@ -1,0 +1,8 @@
+w=open('write.txt','w')
+# write=w.write('Churail is very clever aurat')
+write=w.write('i am Appending')
+write=w.write('i am tiddi')
+write=w.write('i am asif')
+write=w.write('i am shamo')
+write=w.write('i am churail')
+w.close()
